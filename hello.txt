@@ -1,4 +1,4 @@
 hello git
-hello git hot-fix
+hello git hot-fix -haster fix
 hello git
 merge-master
